@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackendAPI",
+    "\\BackendAPI\\BackendAPI",
+    "\\BackendAPI\\BackendAPI\\Services",
+    "\\BackendAPI\\BackendAPI\\Services\\Implementation"
+  ],
+  "SelectedNode": "\\BackendAPI\\BackendAPI\\Services\\Implementation\\TypeContactService.cs",
+  "PreviewInSolutionExplorer": false
+}
